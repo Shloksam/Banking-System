@@ -1,2 +1,2 @@
-# Deepfake-Face-Detection
-This Project aims to create effective methods to distinguish genuine content from DeepFake creations, safeguarding the integrity of online information.
+It is integrated with ATM functionalities allowing customers to perform essential transactions such as cash
+withdrawals, balance in quiries, transfers, and bill payments through ATM which saves time.
